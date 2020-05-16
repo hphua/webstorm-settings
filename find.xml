@@ -20,5 +20,6 @@
     <mask>dev.config*.js</mask>
     <mask>*.d.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.less</mask>
   </component>
 </application>
