@@ -12,6 +12,7 @@
       <mapping pattern="ht" type="PLAIN_TEXT" />
       <mapping pattern=".env.test1" type="PLAIN_TEXT" />
       <mapping pattern=".hbrc" type="PLAIN_TEXT" />
+      <mapping pattern=".buildimagenore.wxmp" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
