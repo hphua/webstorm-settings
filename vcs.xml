@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://192.168.1.225:7990" />
-          <option name="userName" value="huangph" />
+          <option name="userName" value="wengpengfei" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/zmts/beauty-vuejs-boilerplate.git" />
@@ -40,6 +40,34 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/training_frontend_web_admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/training_frontend_web_customer_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/training_frontend_web_admin_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/resource_frontend_web_admin_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/training_frontend_uniapp_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/resource_frontend_web_admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/fjwjw/frontend_uniapp_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/training_frontend_uniapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

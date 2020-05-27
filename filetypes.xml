@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;backend;branches;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.test2" type="PLAIN_TEXT" />
@@ -12,7 +13,6 @@
       <mapping pattern="ht" type="PLAIN_TEXT" />
       <mapping pattern=".env.test1" type="PLAIN_TEXT" />
       <mapping pattern=".hbrc" type="PLAIN_TEXT" />
-      <mapping pattern=".buildimagenore.wxmp" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
