@@ -15,6 +15,7 @@
       <mapping pattern="defineProperty" type="PLAIN_TEXT" />
       <mapping pattern=".hbrc" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="nsh" type="PLAIN_TEXT" />
       <mapping ext="vuie" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
