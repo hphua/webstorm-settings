@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="copy-ignore" type="AUTO_DETECTED" />
       <mapping pattern=".hbrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".wxmpneedimage" type="PLAIN_TEXT" />
