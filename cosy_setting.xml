@@ -30,5 +30,23 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="btglxt_frontend_web_admin|1162003950348091">
+          <value>
+            <list>
+              <option value="/generate optimization" />
+              <option value="/generate comment" />
+              <option value="/generate comment" />
+              <option value="/generate comment" />
+              <option value="/generate unit test" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
