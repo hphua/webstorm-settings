@@ -40,6 +40,12 @@
               <option value="/generate comment" />
               <option value="/generate comment" />
               <option value="/generate unit test" />
+              <option value="编写一个彩票推演算法" />
+              <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="对函数内的代码做补充注释" />
+              <option value="/generate unit test" />
+              <option value="通义灵码如何变更默认输出的代码语言，如默认改为TypeScripty" />
             </list>
           </value>
         </entry>
@@ -47,6 +53,8 @@
     </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineNextTips" value="false" />
+    <option name="showInlinePrevTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
