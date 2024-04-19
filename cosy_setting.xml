@@ -48,6 +48,7 @@
               <option value="通义灵码如何变更默认输出的代码语言，如默认改为TypeScripty" />
               <option value="/explain code" />
               <option value="分析此代码块，存在的性能、效率问题，并给出优化方案" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
