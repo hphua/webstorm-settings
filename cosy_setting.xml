@@ -49,6 +49,9 @@
               <option value="/explain code" />
               <option value="分析此代码块，存在的性能、效率问题，并给出优化方案" />
               <option value="/explain code" />
+              <option value="分析代码，存在的性能、效率问题，并给出优化方案" />
+              <option value="/generate optimization" />
+              <option value="对node_modules\@hbfe\security-toolkit\src做性能优化" />
             </list>
           </value>
         </entry>
