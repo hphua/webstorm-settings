@@ -60,12 +60,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="用urllib实现post请求，并获取返回的cookies" />
-              <option value="用JS，基于urllib实现post请求，并获取返回的cookies" />
-              <option value="将urllib.request改为异步调用不用await" />
-              <option value="urllib.request(url, config, (error, data) 获取返回header" />
-              <option value="用JS，实现urllib.request(url, config, (error, data) 返回header" />
               <option value="用JS，实现urllib.request POST发起登录功能" />
               <option value="urllib.request x-www-form-urlencoded" />
               <option value="后续都按JS代码生成" />
@@ -76,6 +70,16 @@
               <option value="urllib urlencode 格式转换" />
               <option value="JS" />
               <option value="js代码 urllib.request 请求头设置Host" />
+              <option value="POST application/x-www-form-urlencoded" />
+              <option value="urllib.request post data  body区别" />
+              <option value="用JS回答上一个问题" />
+              <option value="引入fetch" />
+              <option value="ReferenceError: fetch is not defined" />
+              <option value="axios.post 设置header" />
+              <option value="提取请求返回的cookie值" />
+              <option value="axios.post JSESSIONID" />
+              <option value="axios.post 'application/x-www-form-urlencoded'" />
+              <option value="axios.post 获取登录后的cookie值" />
             </list>
           </value>
         </entry>
