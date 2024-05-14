@@ -57,6 +57,15 @@
             </list>
           </value>
         </entry>
+        <entry key="superfrontenddevops_hua|1162003950348091">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="用urllib实现post请求，并获取返回的cookies" />
+              <option value="用JS，基于urllib实现post请求，并获取返回的cookies" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
