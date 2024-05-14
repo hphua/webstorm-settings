@@ -60,8 +60,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="用JS，实现urllib.request POST发起登录功能" />
-              <option value="urllib.request x-www-form-urlencoded" />
               <option value="后续都按JS代码生成" />
               <option value="body  x-www-form-urlencoded" />
               <option value="/explain code" />
@@ -80,6 +78,8 @@
               <option value="axios.post JSESSIONID" />
               <option value="axios.post 'application/x-www-form-urlencoded'" />
               <option value="axios.post 获取登录后的cookie值" />
+              <option value="JS 实现Basice Auth" />
+              <option value="ReferenceError: btoa is not defined" />
             </list>
           </value>
         </entry>
