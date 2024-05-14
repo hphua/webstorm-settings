@@ -60,7 +60,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="urllib.request的dataType有哪些" />
               <option value="Content-Type为x-www-form-urlencoded时dataType值是什么" />
               <option value="urllib urlencode 格式转换" />
               <option value="JS" />
@@ -80,6 +79,7 @@
               <option value="axios.get await" />
               <option value="axios.post raw JSON" />
               <option value="SyntaxError: await is only valid in async function" />
+              <option value="TypeError [ERR_INVALID_ARG_TYPE]: The &quot;data&quot; argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number" />
             </list>
           </value>
         </entry>
