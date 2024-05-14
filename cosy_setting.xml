@@ -73,6 +73,8 @@
               <option value="/explain code" />
               <option value="urllib.request的dataType有哪些" />
               <option value="Content-Type为x-www-form-urlencoded时dataType值是什么" />
+              <option value="urllib urlencode 格式转换" />
+              <option value="JS" />
             </list>
           </value>
         </entry>
