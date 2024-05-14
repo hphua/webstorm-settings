@@ -71,6 +71,8 @@
               <option value="后续都按JS代码生成" />
               <option value="body  x-www-form-urlencoded" />
               <option value="/explain code" />
+              <option value="urllib.request的dataType有哪些" />
+              <option value="Content-Type为x-www-form-urlencoded时dataType值是什么" />
             </list>
           </value>
         </entry>
