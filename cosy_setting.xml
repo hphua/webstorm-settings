@@ -63,6 +63,14 @@
               <option value="/explain code" />
               <option value="用urllib实现post请求，并获取返回的cookies" />
               <option value="用JS，基于urllib实现post请求，并获取返回的cookies" />
+              <option value="将urllib.request改为异步调用不用await" />
+              <option value="urllib.request(url, config, (error, data) 获取返回header" />
+              <option value="用JS，实现urllib.request(url, config, (error, data) 返回header" />
+              <option value="用JS，实现urllib.request POST发起登录功能" />
+              <option value="urllib.request x-www-form-urlencoded" />
+              <option value="后续都按JS代码生成" />
+              <option value="body  x-www-form-urlencoded" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
