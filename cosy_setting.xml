@@ -60,7 +60,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="urllib urlencode 格式转换" />
               <option value="JS" />
               <option value="js代码 urllib.request 请求头设置Host" />
               <option value="POST application/x-www-form-urlencoded" />
@@ -80,6 +79,7 @@
               <option value="SyntaxError: await is only valid in async function" />
               <option value="TypeError [ERR_INVALID_ARG_TYPE]: The &quot;data&quot; argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number" />
               <option value="mac import axios from './lib/axios.js Unexpected identifier" />
+              <option value="两个数组存储一个类对象实例，类里有属性key为关键字，用JS代码提取两组存在的差异" />
             </list>
           </value>
         </entry>
