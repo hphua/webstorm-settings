@@ -54,6 +54,7 @@
               <option value="对node_modules\@hbfe\security-toolkit\src做性能优化" />
               <option value="/explain code" />
               <option value="/generate optimization" />
+              <option value="Property 'webfunnyEvent' does not exist on type 'Window &amp; typeof globalThis'." />
             </list>
           </value>
         </entry>
