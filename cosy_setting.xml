@@ -61,8 +61,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="POST application/x-www-form-urlencoded" />
-              <option value="urllib.request post data  body区别" />
               <option value="用JS回答上一个问题" />
               <option value="引入fetch" />
               <option value="ReferenceError: fetch is not defined" />
@@ -81,6 +79,8 @@
               <option value="两个数组存储一个类对象实例，类里有属性key为关键字，用JS代码提取两组存在的差异" />
               <option value="webstorm js代码自动格式化" />
               <option value="找不到Reformat" />
+              <option value="格式化" />
+              <option value="启用ESLint" />
             </list>
           </value>
         </entry>
