@@ -1,6 +1,6 @@
 <application>
   <component name="murphysec-plugin">
-    <option name="token" value="4d2a49becf1a26c5e6ac5f234d0e05db" />
+    <option name="token" value="cf5f6b45e68049c3c7591372d61e703d" />
     <option name="server" value="" />
     <option name="changeScan" value="on" />
   </component>
