@@ -89,9 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="SyntaxError: await is only valid in async function" />
-              <option value="TypeError [ERR_INVALID_ARG_TYPE]: The &quot;data&quot; argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number" />
-              <option value="mac import axios from './lib/axios.js Unexpected identifier" />
               <option value="两个数组存储一个类对象实例，类里有属性key为关键字，用JS代码提取两组存在的差异" />
               <option value="webstorm js代码自动格式化" />
               <option value="找不到Reformat" />
@@ -109,6 +106,9 @@
               <option value="js TypeError: SM2.encryptHex is not a function" />
               <option value="gm-crypto中的SM2如何使用，" />
               <option value="nodejs 如何实现sm2.encryptHex" />
+              <option value="xTBKeyInfo 获取UTF_8格式" />
+              <option value="**&#10;     * 使用SM2加密并返回Base64&#10;     *&#10;     * @param text      内容&#10;     * @param publicKey 公钥&#10;     * @return SM2加密并base64编码&#10;     */&#10;    public static String encryptBySm2AndBase64(String text, String publicKey) {&#10;        return encodeByBase64(encryptBySm2(text, publicKey));&#10;    }&#10;&#10;&#10;    /**&#10;     * 使用SM2加密&#10;     *&#10;     * @param text      内容&#10;     * @param publicKey 公钥&#10;     * @return 加密后内容&#10;     */&#10;    public static String encryptBySm2(String text, String publicKey) {&#10;        SM2 sm2 = SmUtil.sm2(null, publicKey);&#10;        return sm2.encryptHex(text, KeyType.PublicKey);&#10;    }" />
+              <option value="将上面代码，用nodejs实现" />
             </list>
           </value>
         </entry>
