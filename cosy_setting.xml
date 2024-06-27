@@ -49,6 +49,7 @@
               <option value="以上JSON，用typescript，定义出数据对象" />
               <option value="pCode是父级节点的code，定义方法根据pCode获取子级code清单" />
               <option value="补充下代码注释" />
+              <option value="vue 关闭变量名强制驼峰规则" />
             </list>
           </value>
         </entry>
