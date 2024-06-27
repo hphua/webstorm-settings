@@ -89,7 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="axios.post raw JSON" />
               <option value="SyntaxError: await is only valid in async function" />
               <option value="TypeError [ERR_INVALID_ARG_TYPE]: The &quot;data&quot; argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number" />
               <option value="mac import axios from './lib/axios.js Unexpected identifier" />
@@ -109,6 +108,7 @@
               <option value="js SM2.encryptHex" />
               <option value="js TypeError: SM2.encryptHex is not a function" />
               <option value="gm-crypto中的SM2如何使用，" />
+              <option value="nodejs 如何实现sm2.encryptHex" />
             </list>
           </value>
         </entry>
