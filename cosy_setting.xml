@@ -84,10 +84,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="引入fetch" />
-              <option value="ReferenceError: fetch is not defined" />
-              <option value="axios.post 设置header" />
-              <option value="提取请求返回的cookie值" />
               <option value="axios.post JSESSIONID" />
               <option value="axios.post 'application/x-www-form-urlencoded'" />
               <option value="axios.post 获取登录后的cookie值" />
@@ -104,6 +100,10 @@
               <option value="格式化" />
               <option value="启用ESLint" />
               <option value="通义灵码助手版本更新内容" />
+              <option value="SyntaxError: Missing initializer in const declaration" />
+              <option value="ReferenceError: md5 is not defined" />
+              <option value="获取随机数" />
+              <option value="ReferenceError: sha256 is not defined" />
             </list>
           </value>
         </entry>
