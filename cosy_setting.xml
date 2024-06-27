@@ -88,10 +88,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="axios.post 获取登录后的cookie值" />
-              <option value="JS 实现Basice Auth" />
-              <option value="ReferenceError: btoa is not defined" />
-              <option value="axios.get await" />
               <option value="axios.post raw JSON" />
               <option value="SyntaxError: await is only valid in async function" />
               <option value="TypeError [ERR_INVALID_ARG_TYPE]: The &quot;data&quot; argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number" />
@@ -108,6 +104,10 @@
               <option value="ReferenceError: sha256 is not defined" />
               <option value="new Date().getTime() 返回秒或毫秒" />
               <option value="当前 unix 时间戳（秒）" />
+              <option value="SM2.encrypt 用法" />
+              <option value="js SM2.encryptHex" />
+              <option value="js TypeError: SM2.encryptHex is not a function" />
+              <option value="gm-crypto中的SM2如何使用，" />
             </list>
           </value>
         </entry>
