@@ -89,10 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="ReferenceError: sha256 is not defined" />
-              <option value="new Date().getTime() 返回秒或毫秒" />
-              <option value="当前 unix 时间戳（秒）" />
-              <option value="SM2.encrypt 用法" />
               <option value="js SM2.encryptHex" />
               <option value="js TypeError: SM2.encryptHex is not a function" />
               <option value="gm-crypto中的SM2如何使用，" />
@@ -109,6 +105,10 @@
               <option value="nodje pkcs1_oaep pkcs8" />
               <option value="cryptoJs.SHA256 用pkcs8" />
               <option value="Buffer.from UTF_8" />
+              <option value="用nodejs实现JAVA sm2.encryptHex的方法" />
+              <option value="public static String encryptBySm2AndBase64(String text, String publicKey) {&#10;        String str =  encodeByBase64(encryptBySm2(text, publicKey));&#10;        return str;&#10;    }&#10;&#10;&#10;    public static String encryptBySm2(String text, String publicKey) {&#10;        SM2 sm2 = SmUtil.sm2(null, publicKey);&#10;        String str =  sm2.encryptHex(text, KeyType.PublicKey);&#10;        return str;&#10;    }&#10;&#10;    public static String encodeByBase64(String text) {&#10;        final Base64.Encoder encoder = Base64.getEncoder();&#10;        return encoder.encodeToString(text.getBytes(StandardCharsets.UTF_8));&#10;    }" />
+              <option value="将上述代码，用nodejs实现" />
+              <option value="TypeError: gmCrypto.sm2DoEncrypt is not a function" />
             </list>
           </value>
         </entry>
