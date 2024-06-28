@@ -89,9 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="通义灵码助手版本更新内容" />
-              <option value="SyntaxError: Missing initializer in const declaration" />
-              <option value="ReferenceError: md5 is not defined" />
               <option value="获取随机数" />
               <option value="ReferenceError: sha256 is not defined" />
               <option value="new Date().getTime() 返回秒或毫秒" />
@@ -109,6 +106,9 @@
               <option value="Buffer.from" />
               <option value="nodejs 将字符串转Bytes" />
               <option value="将Buffer做Base64" />
+              <option value="nodejs sm2 默认编码格式" />
+              <option value="nodje pkcs1_oaep pkcs8" />
+              <option value="cryptoJs.SHA256 用pkcs8" />
             </list>
           </value>
         </entry>
