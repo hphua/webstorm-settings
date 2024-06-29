@@ -89,7 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="js SM2.encryptHex" />
               <option value="js TypeError: SM2.encryptHex is not a function" />
               <option value="gm-crypto中的SM2如何使用，" />
               <option value="nodejs 如何实现sm2.encryptHex" />
@@ -109,6 +108,7 @@
               <option value="public static String encryptBySm2AndBase64(String text, String publicKey) {&#10;        String str =  encodeByBase64(encryptBySm2(text, publicKey));&#10;        return str;&#10;    }&#10;&#10;&#10;    public static String encryptBySm2(String text, String publicKey) {&#10;        SM2 sm2 = SmUtil.sm2(null, publicKey);&#10;        String str =  sm2.encryptHex(text, KeyType.PublicKey);&#10;        return str;&#10;    }&#10;&#10;    public static String encodeByBase64(String text) {&#10;        final Base64.Encoder encoder = Base64.getEncoder();&#10;        return encoder.encodeToString(text.getBytes(StandardCharsets.UTF_8));&#10;    }" />
               <option value="将上述代码，用nodejs实现" />
               <option value="TypeError: gmCrypto.sm2DoEncrypt is not a function" />
+              <option value="nodejs string 转utf-8 byte" />
             </list>
           </value>
         </entry>
