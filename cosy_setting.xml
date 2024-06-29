@@ -89,11 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="将Buffer做Base64" />
-              <option value="nodejs sm2 默认编码格式" />
-              <option value="nodje pkcs1_oaep pkcs8" />
-              <option value="cryptoJs.SHA256 用pkcs8" />
-              <option value="Buffer.from UTF_8" />
               <option value="用nodejs实现JAVA sm2.encryptHex的方法" />
               <option value="public static String encryptBySm2AndBase64(String text, String publicKey) {&#10;        String str =  encodeByBase64(encryptBySm2(text, publicKey));&#10;        return str;&#10;    }&#10;&#10;&#10;    public static String encryptBySm2(String text, String publicKey) {&#10;        SM2 sm2 = SmUtil.sm2(null, publicKey);&#10;        String str =  sm2.encryptHex(text, KeyType.PublicKey);&#10;        return str;&#10;    }&#10;&#10;    public static String encodeByBase64(String text) {&#10;        final Base64.Encoder encoder = Base64.getEncoder();&#10;        return encoder.encodeToString(text.getBytes(StandardCharsets.UTF_8));&#10;    }" />
               <option value="将上述代码，用nodejs实现" />
@@ -109,6 +104,11 @@
               <option value="sm-crypto sm4 解密" />
               <option value="sm4.decrypt" />
               <option value="Error: padding is invalid" />
+              <option value="sm4.decrypt ecb" />
+              <option value="sm-crypto sm4 解密 ECB" />
+              <option value="padding = 'pkcs#7', mode, iv = [], output = 'string'" />
+              <option value="sm4(inArray, key, cryptFlag, {&#10;  padding = 'pkcs#7', mode, iv = [], output = 'string'&#10;}" />
+              <option value="sm-crypto sm4.decrypt ECB 模式" />
             </list>
           </value>
         </entry>
