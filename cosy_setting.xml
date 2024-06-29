@@ -89,9 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="将上面代码，用nodejs实现" />
-              <option value="SM2.encrypt" />
-              <option value="nodejs 获取 bytes" />
               <option value="Buffer.from" />
               <option value="nodejs 将字符串转Bytes" />
               <option value="将Buffer做Base64" />
@@ -109,6 +106,9 @@
               <option value="Date.now() date.getTime()差别" />
               <option value="制造一个完整curl bash" />
               <option value="用js 制造出一个完整curl bash" />
+              <option value="nodejs Base64 解码" />
+              <option value="SM4解密" />
+              <option value="sm-crypto sm4 解密" />
             </list>
           </value>
         </entry>
