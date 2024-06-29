@@ -89,7 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="nodejs 将字符串转Bytes" />
               <option value="将Buffer做Base64" />
               <option value="nodejs sm2 默认编码格式" />
               <option value="nodje pkcs1_oaep pkcs8" />
@@ -109,6 +108,7 @@
               <option value="SM4解密" />
               <option value="sm-crypto sm4 解密" />
               <option value="sm4.decrypt" />
+              <option value="Error: padding is invalid" />
             </list>
           </value>
         </entry>
