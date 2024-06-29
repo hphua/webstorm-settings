@@ -89,7 +89,6 @@
         <entry key="superfrontenddevops_hua|1162003950348091">
           <value>
             <list>
-              <option value="js TypeError: SM2.encryptHex is not a function" />
               <option value="gm-crypto中的SM2如何使用，" />
               <option value="nodejs 如何实现sm2.encryptHex" />
               <option value="xTBKeyInfo 获取UTF_8格式" />
@@ -109,6 +108,7 @@
               <option value="将上述代码，用nodejs实现" />
               <option value="TypeError: gmCrypto.sm2DoEncrypt is not a function" />
               <option value="nodejs string 转utf-8 byte" />
+              <option value="用JS实现生成32位的16进制随机码" />
             </list>
           </value>
         </entry>
