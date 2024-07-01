@@ -80,6 +80,14 @@
             </list>
           </value>
         </entry>
+        <entry key="gzzywspx_frontend_web_customer|1162003950348091">
+          <value>
+            <list>
+              <option value="Type 'InferPropType' is not generic" />
+              <option value="'string' only refers to a type, but is being used as a value here" />
+            </list>
+          </value>
+        </entry>
         <entry key="monitor_frontend_uniapp|1162003950348091">
           <value>
             <list>
