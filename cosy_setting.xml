@@ -92,6 +92,7 @@
           <value>
             <list>
               <option value="对于src目录下的代码做代码检查" />
+              <option value="npm ERR! path D:\Project\bitbucket\安徽统一监管\monitor_frontend_uniapp\node_modules\node-sass&#10;npm ERR! command failed" />
             </list>
           </value>
         </entry>
