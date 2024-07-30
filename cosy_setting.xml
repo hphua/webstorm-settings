@@ -51,6 +51,7 @@
               <option value="补充下代码注释" />
               <option value="vue 关闭变量名强制驼峰规则" />
               <option value="js 字符串转小写" />
+              <option value="Property 'style' does not exist on type 'Element'." />
             </list>
           </value>
         </entry>
