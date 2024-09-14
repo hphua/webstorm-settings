@@ -150,6 +150,9 @@
             <list>
               <option value="用JS实现以下功能：// 遍历目录 Z:\Cooper\templates ，将文件扩展名为.html文件，复制到D:\CooperBak目录下。保持原目录结构不变" />
               <option value="忽略源目录名为“.idea”和“.svn”" />
+              <option value="跳过目标目录已存在的目录" />
+              <option value="ignoredDirs值有['.idea', '.svn', '01test', 'demo1', 'demo2']" />
+              <option value="用JS实现，遍历目录D:\CooperBak下文件扩展名为.html，分析文件中是否存在&quot;set &quot;，若存在将文件路径打印出来" />
             </list>
           </value>
         </entry>
