@@ -145,6 +145,14 @@
             </list>
           </value>
         </entry>
+        <entry key="superfrontenddevops_hua|1492472005265758">
+          <value>
+            <list>
+              <option value="用JS实现以下功能：// 遍历目录 Z:\Cooper\templates ，将文件扩展名为.html文件，复制到D:\CooperBak目录下。保持原目录结构不变" />
+              <option value="忽略源目录名为“.idea”和“.svn”" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
