@@ -85,6 +85,8 @@
           <value>
             <list>
               <option value="代码重构" />
+              <option value="/generate optimization" />
+              <option value="输出优化后，完整代码" />
             </list>
           </value>
         </entry>
