@@ -90,6 +90,7 @@
               <option value="/generate comment" />
               <option value="优化代码" />
               <option value="/generate optimization" />
+              <option value="生成完整并且注释代码" />
             </list>
           </value>
         </entry>
