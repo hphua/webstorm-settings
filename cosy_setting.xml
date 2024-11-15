@@ -81,6 +81,15 @@
             </list>
           </value>
         </entry>
+        <entry key="btxpx_frontend_uniapp|1162003950348091">
+          <value>
+            <list>
+              <option value="/generate optimization" />
+              <option value="优化工程编译速度" />
+              <option value="hard-source-webpack-plugin" />
+            </list>
+          </value>
+        </entry>
         <entry key="btxpx_frontend_web_admin|1162003950348091">
           <value>
             <list>
