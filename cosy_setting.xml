@@ -87,6 +87,9 @@
               <option value="/generate optimization" />
               <option value="优化工程编译速度" />
               <option value="hard-source-webpack-plugin" />
+              <option value="/generate comment" />
+              <option value="优化代码" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
